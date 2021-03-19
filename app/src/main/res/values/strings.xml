@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CalculoIR2021</string>
+    <string name="titulo">Calculadora IR</string>
+    <string name="salario">Salário</string>
+    <string name="calcular">Calcular</string>
+    <string name="imposto">Imposto: </string>
+    <string name="sal_liq">Salário Líquido:</string>
+</resources>
